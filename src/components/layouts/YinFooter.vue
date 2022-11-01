@@ -3,7 +3,7 @@
     <p>
       <a @click="goHome()">首页</a> | <a @click="goSongList()">歌单</a> |
       <a @click="goSinger()">歌手</a>|
-      <a href="https://github.com/1orz/music-frontend">Github开源地址</a>
+      <a target="blank" href="https://github.com/1orz/music-frontend">Github开源地址</a>
     </p>
 
     <p v-for="(item, index) in footerList" :key="index">
