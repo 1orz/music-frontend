@@ -65,7 +65,6 @@
 - 管理端[](https://music-backend.cloudorz.com/): https://music-backend.cloudorz.com/
 
 > 管理员账号: `admin` 密码: `admin`
-
-本项目第一作者为 Yin-Hongwei [开源地址](https://github.com/Yin-Hongwei/music-website) 尊重作者劳动。
+第一版来着 Yin-Hongwei [开源地址](https://github.com/Yin-Hongwei/music-website) 尊重作者劳动。
 
 该项目遵循 `MIT` 开源许可协议
